@@ -3,7 +3,7 @@
 This repository accompanies [*R3 Corda for Architects and Developers*](https://www.apress.com/9781484245316.jpg) by Debajani Mohanty (Apress, 2019).
 
 [comment]: #cover
-![Cover image](9781484245316.jpg.jpg)
+![Cover image](9781484245316.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
